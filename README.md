@@ -23,6 +23,3 @@ Prnsh's CineMatch is a simple movie recommendation system developed in Python, u
 * In-memory data management with Python data structures.
 * Sorting algorithms for movie recommendations.
 * Command Line Interface (CLI) interaction for user input and output.
-
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
