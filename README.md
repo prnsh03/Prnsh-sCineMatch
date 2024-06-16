@@ -15,7 +15,7 @@ Prnsh's CineMatch is a simple movie recommendation system developed in Python, u
 * GUI - Tkinter
 
 ## Usage:
-* Clone the repository: git clone https://github.com/yourusername/CineMatch.git
+* Clone the repository: git clone https://github.com/prnsh03/Prnsh-sCineMatch.git
 * Run main.py to start the command line interface.
 * Follow the prompts to add, search, recommend, or delete movies.
 
